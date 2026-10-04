@@ -1,0 +1,12 @@
+{
+  "name": "mi-bedrock-proxy",
+  "version": "1.0.0",
+  "description": "Mi proxy para Minecraft Bedrock",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "latest"
+  }
+}
